@@ -1,0 +1,18 @@
+OKTA_CLIENT_ID: "0oaa8d0r9uSNvjxrx5d7"
+
+OKTA_CLIENT_SECRET: "kmnyUGSdpDh0J6T7lCOUekU4guVtY42j0pIZ4kvK"
+
+OKTA_ORG: "your org"
+OKTA_DOMAIN: "okta"
+
+OKTA_URL: "your okta url"
+
+OKTA_ISSUER: "https://dev-97399574.okta.com/oauth2/default"
+
+OKTA_AUTH_SERVER_ID: "default"
+
+OKTA_REDIRECT_URI: "http://localhost:3000/users/auth/oktaoauth/callback"
+
+# export OKTA_OAUTH2_ISSUER="https://dev-97399574.okta.com/oauth2/default"
+# export OKTA_OAUTH2_CLIENT_ID="0oaa8d0r9uSNvjxrx5d7"
+# export OKTA_OAUTH2_CLIENT_SECRET="kmnyUGSdpDh0J6T7lCOUekU4guVtY42j0pIZ4kvK"
